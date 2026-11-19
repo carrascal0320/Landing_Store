@@ -1,0 +1,6 @@
+{
+  "name": "VESTRA — Virtual Try-On Outerwear",
+  "description": "Full-viewport virtual try-on menswear outerwear hero for VESTRA featuring interactive garment swaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
